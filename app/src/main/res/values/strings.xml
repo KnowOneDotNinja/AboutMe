@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="text_name">Michael Winebarger</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="nickname_hint">What is your nickname?</string>
+    <string name="button_text">Done!</string>
+    <string name="info">Hello! My name is Michael, but you can call me Mike.
+    \n\nAs a Junior Android Engineer I can build apps like this one from the ground up, including concept, design, logic, deployment and maintenance.
+    \n\nThough the apps that I have created are simple, I feel like they demonstrate fair ability and competence for a Junior position, don\'t you?
+    \n\nI am currently learning Jetpack, which will strengthen my skill set and streamline my productivity.
+    \n\nI know that my biggest setback is not having any professional, paid experience. I have noticed this to be a common problem with new engineers.
+        All I need is that one company to take a chance and give me the opportunity to excel. I know that i\'m made for this industry.
+        Before you know it, you\'ll be wanting 20 more just like me.
+    \n\nThank you for the consideration!\n</string>
+</resources>
